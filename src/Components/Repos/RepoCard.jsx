@@ -10,7 +10,7 @@ const RepoCard = ({repoName, urlRepo, description})=>{
             <div className="font-bold pt-2">{repoName}</div>
             <div className="text-xs">{description}</div>
             <div className="text-xs py-2 pr-3">
-            <a target="_blank" rel="noopener" className="hover:text-purple-200" href={urlRepo}>{urlRepo}</a>
+            <a target="_blank" rel="noreferrer" className="hover:text-purple-200" href={urlRepo}>{urlRepo}</a>
             </div>
       </div> 
       </>
