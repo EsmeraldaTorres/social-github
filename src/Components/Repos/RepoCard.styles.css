@@ -1,0 +1,7 @@
+.backg-black{
+    background-color: rgba(0, 0, 0, 0.79);
+}
+.basis{
+    flex-grow: 1;
+    flex-basis: 0;
+}

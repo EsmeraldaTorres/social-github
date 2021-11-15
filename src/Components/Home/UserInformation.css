@@ -1,0 +1,21 @@
+.avatar{
+    max-width: 80%;
+}
+.border-img{ 
+    border:solid 1px
+ #c1bdbd4d;}
+@media  (min-width: 556px) {
+    .avatar{
+        max-width: 60%;
+    }  
+}
+@media  (min-width: 756px) {
+    .avatar{
+        max-width: 55%;
+    }  
+}
+@media  (min-width: 1024px) {
+    .avatar{
+        max-width: 50%;
+    }  
+}
